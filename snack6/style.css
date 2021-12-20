@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  display: flex;
+}
+.box {
+  padding: 50px;
+  width: 50%;
+}
+.gray {
+  background: gray;
+}
+.green {
+  background: green;
+}
